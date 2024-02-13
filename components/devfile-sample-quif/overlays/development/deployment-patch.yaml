@@ -4,7 +4,6 @@ metadata:
   creationTimestamp: null
   name: devfile-sample-quif
 spec:
-  replicas: 1
   selector: {}
   strategy: {}
   template:
